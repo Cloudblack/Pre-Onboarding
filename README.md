@@ -1,2 +1,3 @@
-# Pre-Onboarding
-AIB Free/Pre Onboarding 사전과제
+# wanted_pre_onboarding 
+
+wanted_pre_onboarding 사전과제입니다
